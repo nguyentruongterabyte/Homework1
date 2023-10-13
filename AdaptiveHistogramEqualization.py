@@ -1,3 +1,7 @@
+"""
+  MSSV     : N20DCCN083
+  Họ và tên: Nguyễn Thái Trưởng
+"""
 
 import cv2
 import numpy as np
